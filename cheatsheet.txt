@@ -1,0 +1,7 @@
+
+
+npm init -y
+npm install -D typescript @types/node
+npx tsc --init
+
+npx ts-node index.ts
